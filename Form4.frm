@@ -117,7 +117,7 @@ Begin VB.Form Form4
       Orientation     =   0
       Enabled         =   -1
       Connect         =   $"Form4.frx":E802
-      OLEDBString     =   $"Form4.frx":E8AE
+      OLEDBString     =   $"Form4.frx":E8A0
       OLEDBFile       =   ""
       DataSourceName  =   ""
       OtherAttributes =   ""
@@ -266,7 +266,7 @@ Begin VB.Form Form4
    Begin VB.Image Image1 
       Height          =   9210
       Left            =   0
-      Picture         =   "Form4.frx":E95A
+      Picture         =   "Form4.frx":E93E
       Stretch         =   -1  'True
       Top             =   240
       Width           =   16140
